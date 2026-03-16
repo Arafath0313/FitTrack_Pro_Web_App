@@ -58,31 +58,6 @@
 ![Folder Structure](Folder_Structure.png)
 
 
-FitTrack Pro/
-│
-├── index.html            # Main HTML file
-├── styles.css            # Main CSS file
-├── app.js                # Main JavaScript logic
-├── README.md             # Project documentation
-│
-├── screenshots/          # Screenshots for README
-│   ├── Activity_log.png
-│   ├── Community.png
-│   ├── Dashboard_01.png
-│   ├── Dashboard_02.png
-│   ├── Goals.png
-│   ├── Profile.png
-│   ├── Progress.png
-│   └── Support.png
-│
-└── js/                   # JavaScript modules
-    ├── storage.js
-    ├── auth.js
-    ├── activity.js
-    ├── goals.js
-    └── ui.js
-
-
 ---
 
 ## How to Run
