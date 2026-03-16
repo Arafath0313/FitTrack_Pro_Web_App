@@ -55,6 +55,9 @@
 
 ## Folder Structure
 
+![Folder Structure](Folder_Structure.png)
+
+
 FitTrack Pro/
 │
 ├── index.html            # Main HTML file
