@@ -2,7 +2,7 @@
 
 **Course:** ICT 2204 — Web Design and Technologies  
 **Phase 2:** Frontend  
-**Students:** Mohamed Arafath (ICT/2023/142) · Inun Nooriyya (ICT/2023/112)  
+**Students:** Mohamed Arafath (ICT/2023/142) · Inun Nooriyya (ICT/2023/112) · Musthak (ICT/2023/074)  
 **University:** Rajarata University of Sri Lanka
 
 ---
