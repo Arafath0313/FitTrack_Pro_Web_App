@@ -46,37 +46,7 @@ FitTrack Pro is a full-stack fitness tracker web application developed using HTM
 
 ## Folder Structure
 
-FitTrack Pro/ 
-    │── Phase_02_Front-end/
-    └── Phase_03_DB_Integration/
-        │── css/                  # Stylesheets for the website
-        │   └── styles.css        # Main CSS file for layout and design
-        │── js/                   # JavaScript files for frontend functionality
-        │── images/               # Images and profile photos used in the project
-        │── includes/             # Core backend utilities
-        │   ├── db.php            # Database connection setup
-        │   └── functions.php     # Helper functions (e.g., input validation)
-        │── api/                        # Backend API endpoints for CRUD operations
-        │   ├── delete_activity.php  # Delete a specific workout/activity from the database
-        │   ├── delete_goal.php      # Delete a specific fitness goal from the database
-        │   ├── delete_post.php      # Delete a specific community post from the database
-        │   ├── get_activities.php   # Fetch all workouts/activities of a user from the database
-        │   ├── get_goals.php        # Fetch all fitness goals of a user from the database
-        │   ├── get_post.php         # Fetch a specific post from the database
-        │   ├── get_profile.php      # Fetch user profile data from the database
-        │   ├── save_activity.php    # Save a new workout/activity to the database
-        │   ├── save_goal.php        # Save or update a fitness goal in the database
-        │   ├── save_post.php        # Save a new community post to the database
-        │   └── save_profile.php     # Save or update user profile information in the database
-        │── auth/                 # Authentication logic
-        │   ├── register.php      # User registration
-        │   ├── login.php         # User login
-        │   └── logout.php        # User logout
-        │── contact.php           # Contact form page to submit messages
-        │── index.php             # Main landing page of the website
-        │── dashboard.php         # User dashboard (only accessible after login)
-        │── README.md             # Project documentation and instructions
-        └── database.sql          # MySQL database schema and initial setup
+![Folder Structure](Folder_Structure.png)
 
 ---
 
